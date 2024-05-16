@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 一个用于边学边练习的 React + Typescript 项目 （Getting Started with Create React App）
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
